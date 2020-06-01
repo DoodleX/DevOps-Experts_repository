@@ -1,1 +1,1 @@
-print('CNB12343')
+print('CN2343')
